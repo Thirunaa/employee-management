@@ -4,7 +4,9 @@
 
 This is a simple employee management system that allows the user to perform CRUD operation on employees from dashboard. The application is build using Java, Spring Boot, Spring Data JPA, MySQL, Bootstrap, HTML, CSS, and Angular.
 
-#Configuration
+## Video
+
+[Employee Management](https://youtu.be/eItdBeko7b4)
 
 ## Requirements
 
